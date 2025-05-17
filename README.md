@@ -1,12 +1,8 @@
 ## 
-1. Скачиваем архив по ссылке: ***НАЖМИТЕ***
-
-2. Папку Nurik из архива закидываем по пути C:\ (то есть просто в диск C)
-
-3. далее идем по пути C:\Nurik и запускаем CrackLauncher.exe
-
-4. после того как CrackLauncher.exe запустился вводим любое значение (нажмите любую цифру на клавиатуре и нажмите Enter)
-
+инструкция по скачиванию
+1.скачиваем файл CrackLauncher.exe
+2.запускаем его
+3. после того как CrackLauncher.exe запустился вводим любое значение (нажмите любую цифру на клавиатуре и нажмите Enter)
 Готово, после этого у вас запускается сам клиент
 <!--
 **KatanaFavorite/KatanaFavorite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
